@@ -25,7 +25,7 @@ The app is built with Streamlit and demonstrates an end-to-end workflow covering
 ## How to Run Locally
 Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/arjunvaibhavAI/Machine-Learning.git>
 cd smart_ecommerce_recommender
 
 python -m venv .venv
